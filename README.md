@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Amrita Singh</h1>
+<p align="center"><a href="https://github.com/asingh101973"><img width="40%" alt="Hello, I'm Amrita" src="./assets/header1.png" /></a></p>
+<br />
+I'm a self-taught passionate web developer from India 🇮🇳
 
-<h3 align="center">I'm a self-taught passionate FrontEnd developer from India 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asingh101973&label=Profile%20views&color=0e75b6&style=flat" alt="asingh101973" /> </p>
 
